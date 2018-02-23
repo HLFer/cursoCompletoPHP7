@@ -1,0 +1,15 @@
+{
+    "name": "henri/composer",
+    "description": "Aula de PHP 7/Composer",
+    "type": "Project",
+    "authors": [
+        {
+            "name": "Henrique Fernandes",
+            "email": "henriquedin@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	"monolog/monolog":"1.0.*"
+    }
+}
